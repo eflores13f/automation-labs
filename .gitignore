@@ -13,5 +13,9 @@ __pycache__/
 # PyCharm
 .idea/
 
-# Environment variables
+# Environment variabless
 .env
+
+# Generated reports
+reports/
+reports/*.txts

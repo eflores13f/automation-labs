@@ -1,6 +1,27 @@
+# macOS
 .DS_Store
+
+# env / secrets
 .env
-.venv/
+.env.*
+
+# Python
 __pycache__/
-*.log
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+
+# IDE
 .idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS / misc
+Thumbs.db

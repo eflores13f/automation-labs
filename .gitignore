@@ -25,3 +25,5 @@ pip-wheel-metadata/
 
 # OS / misc
 Thumbs.db
+
+src/reports/
